@@ -1,0 +1,23 @@
+{
+  "name": "tentacle-js",
+  "version": "1.0.0",
+  "description": "GitHub API + ES2015 + node.js",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bots-squad/tentacle-js.git"
+  },
+  "author": "@k33g_org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bots-squad/tentacle-js/issues"
+  },
+  "homepage": "https://github.com/bots-squad/tentacle-js#readme"
+}
