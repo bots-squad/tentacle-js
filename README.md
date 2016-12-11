@@ -1,6 +1,7 @@
 # Tentacle-js
 
 > GitHub API + ES2015 + node.js
+
 > initial work: https://github.com/github/platform-samples/tree/master/api/javascript/es2015-nodejs
 
 ## Setup
