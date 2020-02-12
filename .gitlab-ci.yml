@@ -1,0 +1,16 @@
+stages:
+  - step-one
+  - step-two
+
+variables:
+  A: 40
+  B: 2
+
+addition:
+  stage: step-one
+  only:
+    - master
+    - merge_request
+  script:
+    - echo " === Addition === "
+    - expr $A + $B
