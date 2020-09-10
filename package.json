@@ -4,7 +4,7 @@
   "description": "GitHub API + ES2015 + node.js",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
